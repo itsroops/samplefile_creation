@@ -60,7 +60,7 @@
                 <archive>
                 <manifest>
                     <mainClass>
-                        de.uni_bonn.bit.lsi.groupfive.samplefile.App
+                        de.uni_bonn.bit.lsi.groupfive.samplefile_creation.App
                     </mainClass>
                 </manifest>
                 </archive>
